@@ -33,6 +33,10 @@ Run the COde:
                                  
 RabbitMQ server runs at : localhost:15672 (Refer images)
 
+![1](https://github.com/Varshini1101/updateTag/blob/master/RabbitMQAsyncTask-master/images/RunningModelApi.png)
+
+![2](https://github.com/Varshini1101/updateTag/blob/master/RabbitMQAsyncTask-master/images/UpdatedMySQl.png)
+
 
 
  
